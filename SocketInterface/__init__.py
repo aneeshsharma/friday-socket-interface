@@ -1,1 +1,1 @@
-from SocketInterface import *
+from .SocketInterface import *
